@@ -9,4 +9,4 @@ then:
 saes ENC|DEC key data
 
 Example:
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
