@@ -1,12 +1,12 @@
 # Simplified-AES
 
-To run the code in command prompt:
+# To run the code in command prompt:
 
-enter:
-gcc saes.c
+ Enter:
+ gcc saes.c
 
-then:
-saes ENC|DEC key data
+ Then:
+ saes ENC|DEC key data
 
-Example:
+# Example:
 ![Screenshot](Screenshot.png)
